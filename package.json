@@ -1,13 +1,15 @@
 {
-  "name": "js_logic_based_tasks",
-  "version": "1.0.0",
+  "name": "@codewithajoydas/js_logic_based_tasks",
+  "version": "1.0.1",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
+  "bin": "./index.js",
+  "keywords": [
+    "js_logic_based_tasks"
+  ],
+  "author": "Ajoy Das",
   "license": "ISC",
   "type": "module",
-  "description": ""
+  "dependencies": {
+    "js-logic-based-tasks": "^1.0.0"
+  }
 }
